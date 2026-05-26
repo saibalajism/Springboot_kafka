@@ -50,6 +50,10 @@
     <artifactId>jakarta.persistence-api</artifactId>
     <version>3.1.0</version> <!-- Use 3.x for Jakarta EE 9/10 -->
 </dependency>
+<dependency>
+    <groupId>com.fasterxml.jackson.core</groupId>
+    <artifactId>jackson-databind</artifactId>
+</dependency>
 		<dependency>
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
